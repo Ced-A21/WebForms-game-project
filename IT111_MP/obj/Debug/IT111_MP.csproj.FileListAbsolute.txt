@@ -1,0 +1,28 @@
+C:\Users\Simon Philip Asino\Desktop\IT_MP\IT111_MP\IT111_MP\bin\Debug\IT111_MP.exe.config
+C:\Users\Simon Philip Asino\Desktop\IT_MP\IT111_MP\IT111_MP\bin\Debug\IT111_MP.exe
+C:\Users\Simon Philip Asino\Desktop\IT_MP\IT111_MP\IT111_MP\bin\Debug\IT111_MP.pdb
+C:\Users\Simon Philip Asino\Desktop\IT_MP\IT111_MP\IT111_MP\obj\Debug\IT111_MP.csproj.AssemblyReference.cache
+C:\Users\Simon Philip Asino\Desktop\IT_MP\IT111_MP\IT111_MP\obj\Debug\IT111_MP.csproj.CoreCompileInputs.cache
+C:\Users\Simon Philip Asino\Desktop\IT_MP\IT111_MP\IT111_MP\obj\Debug\IT111_MP.exe
+C:\Users\Simon Philip Asino\Desktop\IT_MP\IT111_MP\IT111_MP\obj\Debug\IT111_MP.pdb
+C:\Users\Simon Philip Asino\Desktop\IT111_MP_1.9\IT111_MP\IT111_MP\bin\Debug\IT111_MP.exe.config
+C:\Users\Simon Philip Asino\Desktop\IT111_MP_1.9\IT111_MP\IT111_MP\bin\Debug\IT111_MP.exe
+C:\Users\Simon Philip Asino\Desktop\IT111_MP_1.9\IT111_MP\IT111_MP\bin\Debug\IT111_MP.pdb
+C:\Users\Simon Philip Asino\Desktop\IT111_MP_1.9\IT111_MP\IT111_MP\obj\Debug\IT111_MP.csproj.AssemblyReference.cache
+C:\Users\Simon Philip Asino\Desktop\IT111_MP_1.9\IT111_MP\IT111_MP\obj\Debug\IT111_MP.csproj.CoreCompileInputs.cache
+C:\Users\Simon Philip Asino\Desktop\IT111_MP_1.9\IT111_MP\IT111_MP\obj\Debug\IT111_MP.exe
+C:\Users\Simon Philip Asino\Desktop\IT111_MP_1.9\IT111_MP\IT111_MP\obj\Debug\IT111_MP.pdb
+C:\Users\Ryzen 3 3200\Desktop\IT111_MP\IT111_MP\bin\Debug\IT111_MP.exe.config
+C:\Users\Ryzen 3 3200\Desktop\IT111_MP\IT111_MP\bin\Debug\IT111_MP.exe
+C:\Users\Ryzen 3 3200\Desktop\IT111_MP\IT111_MP\bin\Debug\IT111_MP.pdb
+C:\Users\Ryzen 3 3200\Desktop\IT111_MP\IT111_MP\obj\Debug\IT111_MP.csproj.AssemblyReference.cache
+C:\Users\Ryzen 3 3200\Desktop\IT111_MP\IT111_MP\obj\Debug\IT111_MP.csproj.CoreCompileInputs.cache
+C:\Users\Ryzen 3 3200\Desktop\IT111_MP\IT111_MP\obj\Debug\IT111_MP.exe
+C:\Users\Ryzen 3 3200\Desktop\IT111_MP\IT111_MP\obj\Debug\IT111_MP.pdb
+D:\Ced's Documents\ced\2nd year prelims IT Subs\IT111L-1\IT111_MP\IT111_MP\bin\Debug\IT111_MP.exe.config
+D:\Ced's Documents\ced\2nd year prelims IT Subs\IT111L-1\IT111_MP\IT111_MP\bin\Debug\IT111_MP.exe
+D:\Ced's Documents\ced\2nd year prelims IT Subs\IT111L-1\IT111_MP\IT111_MP\bin\Debug\IT111_MP.pdb
+D:\Ced's Documents\ced\2nd year prelims IT Subs\IT111L-1\IT111_MP\IT111_MP\obj\Debug\IT111_MP.csproj.AssemblyReference.cache
+D:\Ced's Documents\ced\2nd year prelims IT Subs\IT111L-1\IT111_MP\IT111_MP\obj\Debug\IT111_MP.csproj.CoreCompileInputs.cache
+D:\Ced's Documents\ced\2nd year prelims IT Subs\IT111L-1\IT111_MP\IT111_MP\obj\Debug\IT111_MP.exe
+D:\Ced's Documents\ced\2nd year prelims IT Subs\IT111L-1\IT111_MP\IT111_MP\obj\Debug\IT111_MP.pdb
